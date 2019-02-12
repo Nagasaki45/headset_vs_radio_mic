@@ -51,7 +51,7 @@ python-crfsuite==0.9.6    # via deep-disfluency
 python-dateutil==2.8.0    # via botocore, jupyter-client, pandas
 pytz==2018.9              # via pandas
 pyzmq==17.1.2             # via jupyter-client, notebook
-requests==2.21.0
+requests==2.21.0          # via smart-open, watson-streaming
 s3transfer==0.2.0         # via boto3
 scikit-learn==0.20.2      # via deep-disfluency
 scipy==1.2.1              # via deep-disfluency, gensim, scikit-learn, theano
