@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 env
-unedited
+*unedited
 credentials.json
