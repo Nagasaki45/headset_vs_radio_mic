@@ -66,7 +66,7 @@ theano==1.0.4             # via deep-disfluency
 tornado==5.1.1            # via ipykernel, jupyter-client, notebook, terminado
 traitlets==4.3.2          # via ipykernel, ipython, jupyter-client, jupyter-core, nbconvert, nbformat, notebook
 urllib3==1.24.1           # via botocore, requests
-watson-streaming==0.0.8
+watson-streaming==0.0.9
 wcwidth==0.1.7            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 websocket-client==0.54.0  # via watson-streaming
