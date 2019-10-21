@@ -34,7 +34,7 @@ markupsafe==1.1.0         # via jinja2
 mistune==0.8.4            # via nbconvert
 nbconvert==5.4.1          # via notebook
 nbformat==4.4.0           # via nbconvert, notebook
-nltk==3.4                 # via deep-disfluency
+nltk==3.4.5               # via deep-disfluency
 notebook==5.7.4
 numpy==1.16.1             # via deep-disfluency, gensim, pandas, scikit-learn, scipy, theano
 pandas==0.24.1            # via deep-disfluency
@@ -56,8 +56,7 @@ s3transfer==0.2.0         # via boto3
 scikit-learn==0.20.2      # via deep-disfluency
 scipy==1.2.1              # via deep-disfluency, gensim, scikit-learn, theano
 send2trash==1.5.0         # via notebook
-singledispatch==3.4.0.3   # via nltk
-six==1.12.0               # via bleach, gensim, nltk, prompt-toolkit, python-dateutil, singledispatch, theano, traitlets, websocket-client
+six==1.12.0               # via bleach, gensim, nltk, prompt-toolkit, python-dateutil, theano, traitlets, websocket-client
 smart-open==1.8.0         # via gensim
 sounddevice==0.3.12       # via watson-streaming
 terminado==0.8.1          # via notebook
